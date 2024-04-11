@@ -1,36 +1,35 @@
-YouTube Video İndirici
-======================
+YouTube Video Downloader
+========================
 
-Bu basit bir Python uygulamasıdır. Bu program, YouTube'dan video indirmenize olanak tanır.
+This is a simple Python application. This program allows you to download videos from YouTube.
 
-Kullanım
---------
+Usage
+-----
 
-1.  Python'un yüklü olduğundan ve bağımlılıkların kurulu olduğundan emin olun:
+1.  Make sure you have Python installed and dependencies are installed:
 
-    Copy code
 
     `pip install -r requirements.txt`
 
-2.  Uygulamayı çalıştırın:
+2.  Run the application:
 
-    Copy code
+
 
     `python youtube_downloader.py`
 
-3.  Uygulama açıldığında, YouTube video URL'sini yapıştırın, kaydetme yolu belirtin, dosya adını girin ve istediğiniz çözünürlüğü seçin. Ardından "İndir" düğmesine tıklayarak indirmeyi başlatın.
+3.  When the application opens, paste the YouTube video URL, specify the save path, enter the file name, and choose the desired resolution. Then click the "Download" button to start the download.
 
-Gereksinimler
--------------
+Requirements
+------------
 
 -   Python 3.x
--   ffmpeg (video formatı dönüştürme için)
+-   ffmpeg (for video format conversion)
 
-Ek Bilgiler
------------
+Additional Information
+----------------------
 
-Bu uygulama, `youtube-dl` ve `ffmpeg` gibi üçüncü taraf kütüphanelerini kullanır. Lütfen bu kütüphanelerin lisans şartlarını kontrol edin.
+This application uses third-party libraries such as `youtube-dl` and `ffmpeg`. Please check the license terms of these libraries.
 
 * * * * *
 
-Bu README dosyası, projenin nasıl kullanılacağı hakkında temel bilgiler sağlar ve geliştiricilere projeyi başlatmalarına yardımcı olur. İhtiyacınıza göre düzenleyebilirsiniz.
+This README file provides basic information on how to use the project and helps developers get started. Feel free to edit it according to your needs.
