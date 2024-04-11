@@ -32,4 +32,3 @@ This application uses third-party libraries such as `youtube-dl` and `ffmpeg`. P
 
 * * * * *
 
-This README file provides basic information on how to use the project and helps developers get started. Feel free to edit it according to your needs.
